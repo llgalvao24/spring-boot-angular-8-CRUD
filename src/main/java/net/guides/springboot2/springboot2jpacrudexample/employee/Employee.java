@@ -1,7 +1,6 @@
 package net.guides.springboot2.springboot2jpacrudexample.employee;
 
 import lombok.Data;
-import sun.util.resources.Bundles;
 
 import javax.persistence.*;
 
